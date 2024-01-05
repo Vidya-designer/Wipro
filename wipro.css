@@ -1,0 +1,93 @@
+@charset "utf-8";
+.headline1 {
+	font-family: "Wipro Akkurat TT";
+	color: #ffffff;
+	text-align: left;
+	font-size: 28px;
+	font-weight: bold;
+	line-height:28px;
+
+}
+
+
+.headline2 {
+	font-family: "Wipro Akkurat TT";
+	color: #ffffff;
+	text-valign: top;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+
+	
+
+}
+
+.headline2purple {
+	font-family: "Wipro Akkurat TT";
+	color: #9E3379;
+	text-align: left;
+	text-valign: top;
+	font-size: 15px;
+	font-weight: bold;
+
+	
+
+}
+
+.body1 {
+	font-family: "Wipro Akkurat Light";
+	color: #ffffff;
+	font-weight: bold;
+		font-size: 28px;
+	font-style: normal;
+	line-height:28px;
+
+
+}
+
+.body2 {
+	font-family: "Wipro Akkurat Light";
+	color: #ffffff;
+	font-size: 12px;
+	text-align: left;
+	font-style: normal;
+	line-height: 15px;
+
+
+}
+
+.body3 {
+	font-family: "Wipro Akkurat TT";
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 13px;
+
+
+}
+
+.body4 {
+	font-family: "Wipro Akkurat TT";
+	color: #ffffff;
+font-weight: bold;
+	text-align: center;
+	font-size: 13px;
+	font-style: normal;
+	line-height: 15px;
+
+
+}
+
+.body5 {
+	font-family: "Wipro Akkurat TT";
+	color: #000000;
+		font-weight: bold;
+
+	text-align: left;
+	font-size: 11px;
+	font-style: normal;
+
+
+}
